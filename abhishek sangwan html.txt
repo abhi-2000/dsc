@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Your's</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <!-- Load Font Awesome here -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <!-- Write your code below -->
+        <div class="header">
+      <div class="header-logo">Resume Maker</div>
+      <div class="header-list">
+        <img src="">
+        <ul>
+          <li>About</li>
+          <li>View older resume</li>
+          <li>Rate Us</li>
+        </ul>
+        
+      </div>
+    </div>
+    
+    
+    <div class="main">
+      <div class="copy-container">
+        <h1>HELLO PEPS.</h1>
+        <h2>Let's create resume. </h2>
+        
+      </div>
+      
+      <div class="contents">
+        <h3 class="section-title">Enter Details</h3>
+        <div class="contents-item">
+          <p>Enter name <span>*</span></p>
+         <input>
+         <p>Enter Personal Statement <span>*</span></p>
+         <textarea></textarea>
+         <p></p>
+         <p>Education <span>*</span></p>
+        <textarea></textarea>
+        <p>Enter your Experience <span>*</span></p>
+        <textarea></textarea>
+        <p>Enter your skills <span>*</span></p>
+        <textarea></textarea>
+        <p>Enter your Specialities <span>*</span></p>
+        <textarea></textarea>
+        <p>Enter your language skills <span>*</span></p>
+        <textarea></textarea>
+        <p>Enter your hobbies and interests <span>*</span></p>
+        <textarea></textarea>
+        <p>Enter your contact Details</p>
+        <p>Mobile no. <span>*</span></p>
+        <input>
+        <p>Address <span>*</span></p>
+        <textarea></textarea>
+        <p><span>* </span>Must be filled.</p>
+        
+        
+        <div class="message-wrapper">
+      <div class="container">
+        <div class="heading">
+             <span class="btn message">Submit</span>
+          <h2>Ready to build your resume?</h2>
+          <h3>Fill up your details</h3>
+        </div>
+
+      </div>
+    </div>
+     </div>
+        </div>
+        </div>
+        
+     
+      
+      <div class="footer">
+      <div class="footer-logo">Resume Maker</div>
+      <div class="footer-list">
+        <ul>
+          <li>About</li>
+          <li>Jobs</li>
+          <li>Contact us</li>
+        </ul>
+        
+      </div>
+    </div>
+  </body>
+</html>
